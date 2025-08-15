@@ -1,4 +1,4 @@
-E-Commerce Business Insights — Olist Dataset
+# E-Commerce Business Insights — Olist Dataset
 📌 Project Overview
 This project is part of Industry Level — Task 9 from the Elevvo Pathways program.
 It uses the Brazilian E-Commerce Public Dataset by Olist to perform a full-cycle data analysis, from cleaning raw data to delivering actionable business insights through an interactive dashboard.
